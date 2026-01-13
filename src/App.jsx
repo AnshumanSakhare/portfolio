@@ -2,6 +2,7 @@ import { Navbar } from "./layout/Navbar"
 import { Hero } from "./sections/Hero"
 import { About } from "./sections/About"
 import { Projects } from "./sections/Projects"
+import { Skills } from "./sections/Skills"
 import { Experience } from "./sections/Experience"
 import { Contact } from "./sections/Contacts"
 import { Testimonials } from "./sections/Testimonials"
@@ -17,8 +18,7 @@ function App() {
         <Hero></Hero>
         <About></About>
         <Projects></Projects>
-        <Experience></Experience>
-        <Testimonials></Testimonials>
+        <Skills></Skills>
         <Contact></Contact>
       </main>
     </div>

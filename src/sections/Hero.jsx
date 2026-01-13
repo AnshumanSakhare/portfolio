@@ -64,7 +64,7 @@ export const Hero = () => (
                         
                         {/*cta button*/}
                         <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-                            <Button size="lg">Contact me <ArrowRight className="w-5 h-5"/></Button>
+                            <a href="#contact"><Button size="lg">Contact me <ArrowRight className="w-5 h-5"/></Button></a>
                             <Button size="lg" variant="outline">Download CV</Button>
                         </div>
                     </div>
@@ -101,10 +101,14 @@ export const Hero = () => (
                 </div>
             </div>
             {/*skills*/}
-            <div>
-                <p>Technologies I work with</p>
-                <div>
-                    <div></div>
+            <div className="pt-12 animate-fade-in animation-delay-500">
+                <p className="text-center text-muted-foreground mb-4">Technologies I work with</p>
+                <div className="flex flex-wrap justify-center gap-4">
+                    {skills.map((skill, index) => (
+                        <div key={index} className="px-4 py-2 glass rounded-full text-sm">
+                            {skill}
+                        </div>
+                    ))}
                 </div>
             </div>
         </div>
