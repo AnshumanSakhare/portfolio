@@ -22,6 +22,11 @@ dist-ssr
 # SQLite database (backend runtime file)
 backend/*.db
 
+# Python cache
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
