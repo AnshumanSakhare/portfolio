@@ -106,12 +106,6 @@ export const Hero = () => (
                             </div>
                         </div>
                         {/*stats badge*/}
-                        <div className="absolute -top-4 -left-4 glass rounded-xl px-4 py-3 animate-float" style={{animationDelay:'1s'}}>
-                            <div className="text-center">
-                                <div className="text-xl font-bold text-primary">3+</div>
-                                <div className="text-xs text-muted-foreground">Years Exp.</div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
