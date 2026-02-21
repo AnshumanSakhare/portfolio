@@ -20,10 +20,10 @@ Role: Software Engineer / Full-Stack Developer
 Location: India
 Status: Available for work / open to new opportunities
 
-Anshuman is a passionate full-stack developer with a knack for building scalable, reliable
-web applications. He enjoys turning complex ideas into clean, well-designed systems.
-He is currently exploring Generative AI to add smart, practical features to products.
-Outside of coding he focuses on personal fitness and continuous improvement.
+Anshuman is a 3rd-year Computer Science engineering student and passionate full-stack developer.
+He builds scalable, reliable web applications and enjoys turning complex ideas into clean,
+well-designed systems. He is currently exploring Generative AI to add smart, practical features
+to products. Outside of coding he focuses on personal fitness and continuous improvement.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 EDUCATION
@@ -48,21 +48,6 @@ DevOps / Cloud / Tools:
 
 AI / GenAI:
   LLM integration, OpenRouter, prompt engineering, PDF AI workflows
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WORK EXPERIENCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Software Engineer — Tech Solutions Inc.
-Jan 2022 – Present
-• Developed and maintained web applications using React, Node.js, and MongoDB.
-• Collaborated with cross-functional teams to deliver high-quality software.
-• Introduced best practices for code review and CI/CD pipelines.
-
-Junior Developer — Innovate Co.
-Jun 2020 – Dec 2021
-• Assisted in developing new features for the company's flagship product.
-• Gained experience with Agile methodologies and version-control workflows.
-• Contributed to both frontend (React) and backend (Node.js) layers.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PROJECTS
